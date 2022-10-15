@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/julianv20/AppTask/static/css/main.939e0682.css",
+    "main.js": "/julianv20/AppTask/static/js/main.89c824cd.js",
+    "index.html": "/julianv20/AppTask/index.html",
+    "main.939e0682.css.map": "/julianv20/AppTask/static/css/main.939e0682.css.map",
+    "main.89c824cd.js.map": "/julianv20/AppTask/static/js/main.89c824cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.939e0682.css",
+    "static/js/main.89c824cd.js"
+  ]
+}
